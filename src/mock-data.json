@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "StockName":"FB",
+        "StockPrice": 189,
+        "LastUpdated": "25th April 2022"
+    },
+    {
+        "id": 2,
+        "StockName":"IBM",
+        "StockPrice": 170,
+        "LastUpdated": "24th April 2022"
+    },
+    {
+        "id": 3,
+        "StockName":"Tata",
+        "StockPrice": 123,
+        "LastUpdated": "25th April 2022"
+    }
+]
